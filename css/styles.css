@@ -39,7 +39,6 @@ body {
     line-height: 1.17; 
     letter-spacing: 0.03em;
     text-transform: uppercase;   
-    text-transform: none;
 }
 .header-logo-two {
     color: #2E2F42;
@@ -50,8 +49,11 @@ font-family: Roboto;
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
-line-height: 1.7;
+line-height: 1.5;
 letter-spacing: 0.02em;
+}
+.header-link:is(:hover, :focus) {
+color: #404bbf;
 }
 
 /*----HERO----*/

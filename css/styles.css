@@ -31,17 +31,18 @@ body {
 
 /*----HEADER----*/
 .header-logo {
-    color: var(--iris, #4D5AE5);
-    font-family: Raleway;
+    color: #4d5ae5;
+    font-family: Raleway, sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 800;
-    line-height: 1.7; 
+    line-height: 1.17; 
     letter-spacing: 0.03em;
     text-transform: uppercase;   
+    text-transform: none;
 }
 .header-logo-two {
-    color: var(--navyblue, #2E2F42);
+    color: #2E2F42;
 }
 .header-link {
 color: var(--navyblue, #2E2F42);

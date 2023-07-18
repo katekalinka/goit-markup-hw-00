@@ -5,6 +5,23 @@ body {
  background-color: #FFFFFF
 }
 
+:root {
+--color-iris: #4d5ae5;
+--color-ocean: #404bbf;
+--color-navy-blue: #2e2f42;
+--color-green: #31d0aa; 
+--color-slate: ■#434455;
+--color-light-slate: #8e8f99;
+--color-cornflower: #e7e9fc;
+--color-cloud: #f4f4fd;
+--color-navy-blue-modal: #2e2f42;
+--color-grey: O#2e2f42;
+--color-white: #FFFFFF; 
+--color-dairy:#fcfcfc;
+--primary-font: 'Roboto', sans-serif;
+--logo-font: 'Raleway', sans-serif;   
+}
+
 .link {
     text-decoration: none;
 }

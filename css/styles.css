@@ -215,7 +215,7 @@ text-transform: uppercase;
 
 /*----BUTTONS----*/
 .buttons {
-
+  font-family: "Roboto", sans-serif;  
 }
 .buttons-list {
 }
@@ -226,6 +226,8 @@ text-transform: uppercase;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.64px;
+     background-color: #F4F4FD;
+     cursor: pointer;
 }
 
 .buttons-links:is(:hover, :focus) {

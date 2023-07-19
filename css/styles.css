@@ -155,7 +155,7 @@ text-align: center;
 
 }
 .team-item {
- background-color: #FFFFFF
+
 }
 .team-name {
 color: var(--navyblue, #2E2F42);
@@ -164,6 +164,7 @@ font-style: normal;
 font-weight: 500;
 line-height: 1.2; 
 letter-spacing: 0.4px;   
+ background-color: #FFFFFF
 }
 .team-profession {
 color: var(--slate, #434455);

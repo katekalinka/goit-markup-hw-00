@@ -228,6 +228,7 @@ text-transform: uppercase;
     letter-spacing: 0.64px;
      background-color: #F4F4FD;
      cursor: pointer;
+    font-family: "Roboto", sans-serif;  
 }
 
 .buttons-links:is(:hover, :focus) {

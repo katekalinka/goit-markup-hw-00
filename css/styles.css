@@ -232,7 +232,8 @@ text-transform: uppercase;
 }
 
 .buttons-links:is(:hover, :focus) {
- color: #404BBF;   
+color: #FFFFFF;
+background-color: #404BBF;
 }
 .buttons-item {
 }

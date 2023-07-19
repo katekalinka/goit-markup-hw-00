@@ -159,7 +159,7 @@ color: var(--navyblue, #2E2F42);
 font-size: 20px;
 font-style: normal;
 font-weight: 500;
-line-height: 1.7; 
+line-height: 1.2; 
 letter-spacing: 0.4px;   
 }
 .team-profession {
@@ -167,7 +167,7 @@ color: var(--slate, #434455);
  font-size: 16px;
 font-style: normal;
 font-weight: 400;
-line-height: 1.7; 
+line-height: 1.5; 
 letter-spacing: 0.32px;    
 }
 

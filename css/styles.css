@@ -158,13 +158,13 @@ text-transform: capitalize;
 text-align: center; 
 }
 .team-list {
-    background-color: #FFFFFF;
+ background-color: #FFFFFF;
 }
 .list {
 
 }
 .team-item {
-
+background-color: #FFFFFF;
 }
 .team-name {
 color: var(--navyblue, #2E2F42);
